@@ -1,7 +1,7 @@
 // src/components/Testimonials.tsx
 import React from 'react';
 import './Testimonials.css';
-import Reason from './Reason';
+// import Reason from './Reason';
 
 const Testimonials: React.FC = () => {
     return (

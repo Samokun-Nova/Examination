@@ -43,7 +43,7 @@ const SignUpForm: React.FC = () => {
     return (
         <div className='signup-and-img'>
             <div className='doc-image'>
-                <img src={docimage} alt="doc-image" className='doc-img-sign' />
+                <img src={docimage} alt="doctor" className='doc-img-sign' />
             </div>
             <div>
                 <form onSubmit={handleSignUp} className='form-box'>

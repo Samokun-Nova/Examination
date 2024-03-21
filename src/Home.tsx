@@ -4,7 +4,7 @@ import docimage from './Image/docimage.png';
 import carefinderImage from "./Image/Carefinder.jpg"
 import { Link } from 'react-router-dom';
 import './Home.css';
-import Reason from './Reason';
+// import Reason from './Reason';
 // import SearchButton from './SearchButton';
 
 const Home: React.FC = () => {
@@ -66,7 +66,7 @@ const Home: React.FC = () => {
 
                 <section className='doc-img-vec'>
                     <div className='doc-image'>
-                        <img src={docimage} alt="doc-image" className='doc-img' />
+                        <img src={docimage} alt="doctor" className='doc-img' />
                     </div>
                 </section>
                 <div>
