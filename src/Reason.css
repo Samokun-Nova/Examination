@@ -1,0 +1,45 @@
+.reason-box {
+    width: 300px;
+    height: 250px;
+    background-color: azure;
+}
+
+.main-reason-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.main-reason {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.main-reason > h1 {
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-block-end: 20px;
+}
+.main-reason > p {
+    font-size: 20px;
+    margin-block-start: -20px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 500px;
+    margin-block-end: 30px;
+    color: rgb(22, 11, 106);
+}
+
+section {
+    background-color: antiquewhite;
+}
+
+.info-reason {
+    font-size: 25px;
+}
+

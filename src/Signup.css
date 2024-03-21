@@ -1,0 +1,47 @@
+.signup-and-img {
+    display: flex;
+    flex-direction: row;
+}
+
+.doc-img-sign {
+    width: 700px;
+    height: 600px;
+    display: flex;
+    margin-right: -10px;
+
+}
+
+.carefinder-logo-sign {
+    margin-top: 60px;
+    margin-bottom: 20px;
+
+
+}
+
+.input-box {
+    width: 500px;
+    height: 45px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border-color: white;
+}
+
+.signup-but {
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: rgb(186, 194, 194);
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(33, 5, 146);
+    margin-left: 10px;
+    color:azure
+}
+
+.check-box {
+    width: 30px;
+    height: 30px;
+margin-right: 10px;
+margin-top: 10px;
+}
